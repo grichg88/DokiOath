@@ -8,7 +8,7 @@ Taking the DokiOath involves a simple process of adding your Odin address to thi
 
 1. **Fork the Repository**: Begin by forking this repository. Click the 'Fork' button at the top right of the page to create your own copy.
 
-2. **Add Your Odin Address**: In your forked repository, create a new file named `[YourGitHubUsername].md`. In this file, write your Odin address as a symbol of your commitment to the oath.
+2. **Add Your Odin Address**: In your forked repository, create a new file named `[odin17clsxkf39363f7pydu3hdqkwv9phjdsj5j88vr].md`. In this file, write your Odin address as a symbol of your commitment to the oath.
 
 3. **Create a Pull Request**: Submit a pull request back to the original DokiOath repository with your file. This is your way of officially taking the oath.
 
